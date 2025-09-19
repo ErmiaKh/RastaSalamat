@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #f3fefb;
+    direction: rtl;
+    font-family: "Vazir";
+}
+.main{
+    padding: 50px 80px;
+}
+.singleProductBox{
+    width: 100%;
+    height: 450px;
+    border: none;
+    box-shadow: 0 0 1px gray;
+    border-radius: 20px;
+    background-color: white;
+}
+.description{
+    width: 70%;
+    height: 100%;
+    padding: 20px;
+}
+.picture{
+    width: 30%;
+    float: right;
+    height: 100%;
+    padding: 20px;
+}
+.buyProduct{
+    background-color: #f64e60;
+    color: white;
+    border: none;
+    padding: 7px 15px;
+    border-radius: 7px;
+    text-decoration: none;
+}
+.bigImage{
+    width: 100%;
+}
+.smallImage{
+    width: 20%;
+    border: 1px solid #b6b6b6;
+    border-radius: 3px;
+}
+/*.coverMain{
+    position: relative;
+}
+.coverMain div{
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0);
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+.coverMain div:hover{
+    background: rgba(0, 0, 0, 0.36);
+}*/
+
+
+
+
+
+
+
+
+
+
+

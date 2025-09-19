@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'pascalYekan';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/Yekan/Yekan.eot');
+    src: url('../fonts/Yekan/Yekan.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Yekan/Yekan.woff2') format('woff2'),
+    url('../fonts/Yekan/Yekan.woff') format('woff'),
+    url('../fonts/Yekan/Yekan.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'pascalVazir';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/vazir/Vazir.eot');
+    src: url('../fonts/vazir/Vazir.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/vazir/Vazir.woff2') format('woff2'),
+    url('../fonts/vazir/Vazir.woff') format('woff'),
+    url('../fonts/vazir/Vazir.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'pascalIranian-Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/Iranian-Sans/iranian-sans.eot');
+    src: url('../fonts/Iranian-Sans/iranian-sans.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Iranian-Sans/iranian-sans.woff2') format('woff2'),
+    url('../fonts/Iranian-Sans/iranian-sans.woff') format('woff');
+}
+@font-face {
+    font-family: 'pascalShabnam';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/Shabnam/Shabnam.eot');
+    src: url('../fonts/Shabnam/Shabnam.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Shabnam/Shabnam.woff2') format('woff2'),
+    url('../fonts/Shabnam/Shabnam.woff') format('woff'),
+    url('../fonts/Shabnam/Shabnam.ttf') format('truetype');
+}

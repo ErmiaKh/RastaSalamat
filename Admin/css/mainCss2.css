@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    direction: rtl;
+}
+.rightMenu{
+    background-color: rgba(153, 1, 1, 0.82);
+    color: white;
+    font-family: 'pascalVazir';
+    font-weight: bold;
+    position: fixed;
+    width: 230px;
+    height: 100%;
+    right: 0;
+    top: 0;
+    transition: 0.5s;
+    padding: 30px;
+    z-index: 1;
+}
+.close{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+.searchBox{
+    margin-top:5px;
+}
+.search{
+    width: 100%;
+    padding: 3px 10px;
+    font-size: 16px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    background-color: rgba(255, 255, 255, 0.85);
+    text-align: right;
+    font-family: pascalVazir;
+
+}
+.menu{
+    list-style-type: none;
+    text-align: right;
+    margin-top: 30px;
+}
+.menu li{
+    margin-right: -40px;
+    padding: 4px;
+    cursor: pointer;
+
+}
+.menu li:hover{
+    background-color: #181818;
+}
+.menu li>a{
+    text-decoration: none;
+    color: white;
+}
+.AdminPic{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.adminPicBox{
+    text-align: center;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+.closeDiv{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.47);
+    top: 0;
+    left: 0;
+    z-index: 0;
+
+}
+.content{
+    width: 100%;
+    height: 100px;
+    margin-right: 230px;
+    margin-left: 20px;
+    transition: 0.5s;
+}
